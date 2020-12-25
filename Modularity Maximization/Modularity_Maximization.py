@@ -1,5 +1,4 @@
-# Q 3c. Find 3 communities in Graph 6.8 in the Textbook by performing modularity maximization.
-# You can use the code you use for Problem 4 to perform this faster.
+# Find 3 communities in Graph 6.8 in the Textbook by performing modularity maximization.
 
 import community
 import networkx as nx
